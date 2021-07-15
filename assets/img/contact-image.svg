@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="345.02" height="79.505" viewBox="0 0 345.02 79.505">
+  <g id="ttl" transform="translate(-787.99 -8336.858)">
+    <g id="ja">
+      <text id="お問い合わせフォーム" transform="translate(958.83 8411.363)" fill="#2e2e2e" font-size="16.017" font-family="NotoSansCJKjp-Medium, Noto Sans CJK JP" font-weight="500" letter-spacing="0.04em"><tspan x="-82.727" y="0">お問い合わせフォーム</tspan></text>
+    </g>
+    <g id="en">
+      <g id="line">
+        <g id="line-2" data-name="line">
+          <ellipse id="楕円形_4_のコピー_2" data-name="楕円形 4 のコピー 2" cx="2.57" cy="2.58" rx="2.57" ry="2.58" transform="translate(787.99 8367.85)" fill="#550171"/>
+          <circle id="楕円形_4_のコピー_3" data-name="楕円形 4 のコピー 3" cx="4.47" cy="4.47" r="4.47" transform="translate(802.55 8365.95)" fill="#550171"/>
+          <ellipse id="楕円形_4_のコピー_4" data-name="楕円形 4 のコピー 4" cx="2.57" cy="2.58" rx="2.57" ry="2.58" transform="translate(819.46 8367.85)" fill="#550171"/>
+        </g>
+        <path id="Color_Overlay" data-name="Color Overlay" d="M802.551,8370.421a4.47,4.47,0,1,1,4.468,4.47A4.469,4.469,0,0,1,802.551,8370.421Zm16.909.008a2.57,2.57,0,1,1,2.571,2.581A2.575,2.575,0,0,1,819.46,8370.429Zm-31.471,0a2.571,2.571,0,1,1,2.57,2.581A2.576,2.576,0,0,1,787.99,8370.429Z" fill="#d4c9d0"/>
+      </g>
+      <g id="line-3" data-name="line">
+        <g id="line-4" data-name="line">
+          <circle id="楕円形_4_のコピー_2-2" data-name="楕円形 4 のコピー 2" cx="2.58" cy="2.58" r="2.58" transform="translate(1096.38 8367.85)" fill="#550171"/>
+          <circle id="楕円形_4_のコピー_3-2" data-name="楕円形 4 のコピー 3" cx="4.47" cy="4.47" r="4.47" transform="translate(1110.94 8365.95)" fill="#550171"/>
+          <circle id="楕円形_4_のコピー_4-2" data-name="楕円形 4 のコピー 4" cx="2.58" cy="2.58" r="2.58" transform="translate(1127.85 8367.85)" fill="#550171"/>
+        </g>
+        <path id="Color_Overlay-2" data-name="Color Overlay" d="M1110.941,8370.421a4.469,4.469,0,1,1,4.468,4.47A4.469,4.469,0,0,1,1110.941,8370.421Zm16.909.008a2.58,2.58,0,1,1,2.581,2.581A2.581,2.581,0,0,1,1127.85,8370.429Zm-31.471,0a2.58,2.58,0,1,1,2.581,2.581A2.581,2.581,0,0,1,1096.379,8370.429Z" fill="#d4c9d0"/>
+      </g>
+      <text id="CONTACT" transform="translate(961.005 8383.858)" fill="#2e2e2e" font-size="48.05" font-family="Lato-HeavyItalic, Lato" font-weight="800" font-style="italic" letter-spacing="0.08em"><tspan x="-116.991" y="0">CONTACT</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="217.071" height="79.497" viewBox="0 0 217.071 79.497">
+  <g id="ttl" transform="translate(-852.05 -6730.905)">
+    <g id="ja">
+      <text id="よくある質問" transform="translate(959.917 6805.402)" fill="#2e2e2e" font-size="16.015" font-family="NotoSansCJKjp-Medium, Noto Sans CJK JP" font-weight="500" letter-spacing="0.04em"><tspan x="-49.646" y="0">よくある質問</tspan></text>
+    </g>
+    <g id="en">
+      <g id="line">
+        <g id="line-2" data-name="line">
+          <ellipse id="楕円形_4_のコピー_2" data-name="楕円形 4 のコピー 2" cx="2.58" cy="2.57" rx="2.58" ry="2.57" transform="translate(852.05 6761.91)" fill="#550171"/>
+          <circle id="楕円形_4_のコピー_3" data-name="楕円形 4 のコピー 3" cx="4.47" cy="4.47" r="4.47" transform="translate(866.62 6760)" fill="#550171"/>
+          <ellipse id="楕円形_4_のコピー_4" data-name="楕円形 4 のコピー 4" cx="2.58" cy="2.57" rx="2.58" ry="2.57" transform="translate(883.53 6761.91)" fill="#550171"/>
+        </g>
+        <path id="Color_Overlay" data-name="Color Overlay" d="M866.619,6764.471a4.47,4.47,0,1,1,4.471,4.469A4.473,4.473,0,0,1,866.619,6764.471Zm16.911.01a2.58,2.58,0,1,1,2.579,2.57A2.574,2.574,0,0,1,883.531,6764.481Zm-31.48,0a2.58,2.58,0,1,1,2.579,2.57A2.574,2.574,0,0,1,852.05,6764.481Z" fill="#d4c9d0"/>
+      </g>
+      <g id="line-3" data-name="line">
+        <g id="line-4" data-name="line">
+          <ellipse id="楕円形_4_のコピー_2-2" data-name="楕円形 4 のコピー 2" cx="2.58" cy="2.57" rx="2.58" ry="2.57" transform="translate(1032.48 6761.91)" fill="#550171"/>
+          <circle id="楕円形_4_のコピー_3-2" data-name="楕円形 4 のコピー 3" cx="4.47" cy="4.47" r="4.47" transform="translate(1047.05 6760)" fill="#550171"/>
+          <ellipse id="楕円形_4_のコピー_4-2" data-name="楕円形 4 のコピー 4" cx="2.58" cy="2.57" rx="2.58" ry="2.57" transform="translate(1063.96 6761.91)" fill="#550171"/>
+        </g>
+        <path id="Color_Overlay-2" data-name="Color Overlay" d="M1047.05,6764.471a4.47,4.47,0,1,1,4.469,4.469A4.471,4.471,0,0,1,1047.05,6764.471Zm16.91.01a2.581,2.581,0,1,1,2.581,2.57A2.575,2.575,0,0,1,1063.96,6764.481Zm-31.48,0a2.581,2.581,0,1,1,2.581,2.57A2.575,2.575,0,0,1,1032.48,6764.481Z" fill="#d4c9d0"/>
+      </g>
+      <text id="FAQ" transform="translate(962.092 6777.905)" fill="#2e2e2e" font-size="48.045" font-family="Lato-HeavyItalic, Lato" font-weight="800" font-style="italic" letter-spacing="0.08em"><tspan x="-48.573" y="0">FAQ</tspan></text>
+    </g>
+  </g>
+</svg>
